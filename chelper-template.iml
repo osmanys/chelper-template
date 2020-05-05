@@ -6,12 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/archive" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/lib" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="chelper" level="project" />
     <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-databind:2.11.0" level="project" />
     <orderEntry type="library" name="junit:junit:4.13" level="project" />
+    <orderEntry type="library" name="CHelper" level="project" />
   </component>
 </module>

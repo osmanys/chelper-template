@@ -1,7 +1,11 @@
 <component name="libraryTable">
-  <library name="chelper">
+  <library name="CHelper">
     <CLASSES>
       <root url="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/cojac.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/jackson-annotations-2.10.2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/jackson-databind-2.10.2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/jackson-core-2.10.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

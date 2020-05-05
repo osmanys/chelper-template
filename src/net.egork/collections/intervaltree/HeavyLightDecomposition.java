@@ -1,4 +1,4 @@
-//package net.egork.collections.intervaltree;
+package net.egork.collections.intervaltree;//package net.egork.collections.intervaltree;
 //
 //import java.util.ArrayList;
 //import java.util.Arrays;
